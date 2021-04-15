@@ -93,3 +93,5 @@ Users can retrieve a summary about any topic available on Wikipedia by simply ty
 
 #### Google Geocode API:
 Users can use this turn any address into a geocode (lat & longitude coordinate). They are also able to turn any *on-land* geocode back into its corresponding address. The geocode must be on-land as we cannot get addresses for a coordinate in the middle of an ocean. To access this ability the user can type keywords like 'address', 'geo', or 'map'.
+
+***NOTE: These APIs don't necessarily improve the conversation with the chatbot, but instead give the chatbot more functionalities that the user can explore which makes for an overall improved experience.***
