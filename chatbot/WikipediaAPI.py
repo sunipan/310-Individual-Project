@@ -15,3 +15,4 @@ def summarize(userInput):
             counter += 1
     return wikipedia.summary(topic, sentences = 5)
 
+
