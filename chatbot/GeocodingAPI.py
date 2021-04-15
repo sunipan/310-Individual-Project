@@ -16,7 +16,6 @@ class Geocode:
     def reverseConvert(self, lat,long):
         try:
             reverse_geocode = self.gmaps.reverse_geocode((lat, long))
-            print(reverse_geocode)
             return reverse_geocode[0]['formatted_address']
         except IndexError as e:
             return "Coordinates are in the ocean, cannot give a real location"
