@@ -89,7 +89,7 @@ Calm bot: if you are feeling lazy, go workout.
 Users can retrieve certain aspects of any Twitter user's account properties. By typing twitter related words such as 'twitter', 'tweet', or 'tweeted' will bring up the Twitter API menu. This menu will ask for a Twitter user's Twitter handle. After this, it retrieves the Twitter user's account info and displays options to the chat bot user on what info to display. The user can choose to display things like when the Twitter account was created, their most recent Tweet, their follower count, the number of Tweets the user's posted, and the user's verified status which returns false if they aren't verified.  
 
 #### Wikipedia API:
-Users can retrieve a summary about any topic available on Wikipedia by simply typing **'wiki topic'** or **'wikipedia topic'**. Nothing much else to this API, it's pretty straight forward.
+Users can retrieve a summary about any topic available on Wikipedia by simply typing ***'wiki topic'*** or ***'wikipedia topic'***. Nothing much else to this API, it's pretty straight forward.
 
 #### Google Geocode API:
-Users can use this turn any address into a geocode (lat & longitude coordinate). They are also able to turn any **on-land** geocode back into its corresponding address. The geocode must be on-land as we cannot get addresses for a coordinate in the middle of an ocean. To access this ability the user can type keywords like 'address', 'geo', or 'map'.
+Users can use this turn any address into a geocode (lat & longitude coordinate). They are also able to turn any *on-land* geocode back into its corresponding address. The geocode must be on-land as we cannot get addresses for a coordinate in the middle of an ocean. To access this ability the user can type keywords like 'address', 'geo', or 'map'.
