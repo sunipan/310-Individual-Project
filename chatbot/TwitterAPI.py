@@ -7,10 +7,10 @@ import re
 
 class Twitter:
     
-    apiKey = 'bYT3Rkm91GV8nKSXVPXQLPr5v'
-    apiSecret = 'Gvbdn8nucOtFTQbAELPrtHgRHsocWalUaM4jhojdzu91cUXvU8'
-    accessToken = '2211402554-YBhFqFkxUjaHdPMbUF2CvSKvr9hrVCO2Q2Es8oC'
-    accessTokenSecret = 'Sk94xjatQ8RsSHuUecHXHmcnPdY9Lo9VyX6uYVEZNjEdf'
+    apiKey = ''
+    apiSecret = ''
+    accessToken = ''
+    accessTokenSecret = ''
 
     auth = tw.OAuthHandler(apiKey, apiSecret)
     auth.set_access_token(accessToken, accessTokenSecret)
