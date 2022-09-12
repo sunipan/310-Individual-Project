@@ -31,6 +31,8 @@ Open up command prompt and type the following:
 
 `pip install tweepy`
 
+`pip install PySimpleGUI`
+
 You should then open up a Python interactive console (IDLE) and download all nltk packages by:
 
 `import nltk`  
