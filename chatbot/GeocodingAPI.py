@@ -3,7 +3,7 @@ import requests
 from datetime import datetime
 
 class Geocode:
-    gmaps = googlemaps.Client(key='AIzaSyCLdrdbAWFM-VBiFXLSWat82irdxRVOy8I')
+    gmaps = googlemaps.Client(key='')
 
     # Geocoding an address
     def convert(self, address):
